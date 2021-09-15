@@ -1,0 +1,98 @@
+[
+	{
+      "id":"1",
+      "parseName":"暮光",
+      "parseUrl":"https://www.mgtv.com.muguangys.com/jiexi.php?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"80tvs",
+      "parseUrl":"https://1.api.80tvs.cn/?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"蓝猫VIP",
+      "parseUrl":"https://jx.daidaitv.top:43810/?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"万福",
+      "parseUrl":"https://jx.wfy4.com/?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"okjx",
+      "parseUrl":"https://okjx.cc?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"全民",
+      "parseUrl":"https://jx.quanmingjiexi.com/?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"8old",
+      "parseUrl":"https://jiexi.8old.cn/m3u8tv20210705%60/?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"久播",
+      "parseUrl":"https://jx.yingxiangbao.cn/vip.php?url=",
+      "click": true",
+    },
+	{
+      "id":"1",
+      "parseName":"okjx",
+      "parseUrl":"https://okjx.superchen.top/?url=",
+      "click": true",
+    },
+    {
+      "id":"1",
+      "parseName":"msdv",
+      "parseUrl":"https://jiexi.msdv.cn/?url=",
+      "click": true",
+    },
+    {
+      "id":"1",
+      "parseName":"178du",
+      "parseUrl":"https://jx5.178du.com/p1/?url=",
+      "click": true",
+    },
+    {
+      "id":"1",
+      "parseName":"明日",
+      "parseUrl":"https://www.qianyicp.com/jiexi/index.php?url=",
+      "click": true",
+    },
+    {
+      "id":"1",
+      "parseName":"七彩",
+      "parseUrl":"https://www.xymav.com/?url=",
+      "click": true",
+    },
+    {
+     "id":"1",
+      "parseName":"爱多",
+      "parseUrl":"https://jx.aidouer.net/?url=",
+      "click": true",
+    },
+    {
+      "id":"1",
+      "parseName":"618G",
+      "parseUrl":"https://jx.618g.com/?url=",
+      "click": true",
+    },
+    {
+      "id":"1",
+      "parseName":"解析",
+      "parseUrl":"https://plamgtvcache.ccyjjd.com/play.php?url=",
+      "click": true",
+    }
+  ]
